@@ -1,0 +1,42 @@
+In the last class, we discussed expressions like "A" x + b and learned how to solve them. Today, we are going to explore expressions like "A" x^2 + "B" x + c, which are quadratic expressions.
+
+Let's start with the simplest quadratic expression, x squared.
+
+For x = 1, the value is 1. For x = 2, the value is 4. Let's graph these
+
+If we plot these values on a graph with x-values on the x-axis and the "values of the expression" on the y-axis, we get a curve of the equation: y equals x squared. This shape of the curve is called a parabola.
+
+The point 0 comma 0 is called the vertex of the parabola. Now if we change the vertex of the parabola, the equation y equals x^2 changes to (y minus (y not)) = (x minus (x not)) whole squared.
+As we move the parabola around on the coordinate plane, the equation changes as shown. This knowledge comes handy to figure out the vertex of any parabola.
+
+One of the most important techniques in dealing with quadratic expressions is factorizing them.
+
+Consider the equation x^2 + 5x + 6. We want to split the middle term into two parts such that their product is 6.
+
+Six equals one times six or two times three. We see that two plus three equals five. Hence, we can write the equation as x^2 + 2x + 3x + 6. Taking out common factors, we get x times x + 2 plus 3 times x + 2. Factoring out x + 2, we get x + 2 times x + 3.
+
+Next, consider the equation x^2 minus x minus 12. We want to split the middle term into two parts such that their product is -12 in this case.
+
+-12 equals -1 into 6 or -2 into 6 or -3 into 4. Now, if we make it 3 into -4, we see that the sum equals -1 which was needed. Hence, we can split the middle term into two parts 3x and minus 4x. Now we can carry on as shown previously.
+
+Now, let's consider a more complex example.
+3x squared minus 5x minus 12.
+
+We multiply the term associated with x^2 (here 3) with the constant term (here -12)
+Before splitting, we multiply -12 by 3, getting -36. We then find pairs of factors of -36 that sums to -5. -4 times 9 equals -36 but sums to + 5, so, we will switch the signs.
+
+Splitting the middle term, we write 3x^2 + 4x minus 9x minus 12. Then we take out common and factorize as shown earlier.
+
+Another important aspect of quadratics is completing the square.
+
+We use the identity: a + b whole squared equals a^2 + 2 a b + b^2.
+
+Consider the expression x^2 + 5x + 6. 
+Rewrite the middle term by dividing and multiplying by 2 to make it similar to 2 "A" "B"
+To complete the square, we add and subtract the (5 by 2 squared). 
+This equals x + (5 by 2) whole squared,  minus 25 by 4 + 6. 
+Simplifying, we get x + 5 over 2 whole squared minus 1 over 4. 
+Can you identify the vertex of the parabola using this equation?
+Using the identity a^2 minus b^2 = a minus b times a + b, we can further factorize the above equation to x + 3 times x + 2.
+
+While lengthy, this method always works and handles non-factorizable quadratics as well. We will discuss more about this in the upcoming videos.
