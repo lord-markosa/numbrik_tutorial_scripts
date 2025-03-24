@@ -1,0 +1,82 @@
+Imagine you walk into a candy shop with $120 in your pocket.
+The shop sells two types of candy: 1 ounce of chocolate bars for $5 each and 1 ounce of gummies for $3 each.
+You decide to buy a mix of both but want to use exactly $120.
+How many chocolate bars and gummy packs can you buy?
+
+If we let x be the number of ounces chocolate bars and y be the number of ounces of gummies, we can set up the equation:
+5x + 3y = 120
+
+This equation represents a linear equation in two variables.
+Every pair (x, y) that satisfies this equation is a valid way to spend your money on candies.
+Note that the highest exponent of the variables is 1.
+
+We can also write the equation as y = 120 minus 5x divided by 3.
+Lets try to substitute values of x and get the values of y.
+
+Thus we get this graph which is a straight line. 
+In coordinate geometry the equation of a straight line is represented by such linear equation.
+
+Now lets say that you have another constraint: You can only carry 30 ounces of candy in your bag.
+This leads us to another linear equation in 2 variables: x + y = 30.
+
+Thus we have 2 equations and 2 unknowns. 
+This implies that there might be a unique solution that satisfies both the criteria simultaneously.
+
+Lets try to substitute y in terms of x in the first equation and solve for x as we did in our Equations' tutorial.
+We do simple algebraic operations to get the x terms on the LHS and rest of the constant terms on the RHS.
+We get x = 15 ounces. When we substitute x back in the second equation we get y = 15 ounces as well.
+
+Thus we have a unique solution to the system of linear equations.
+A system of linear equations is considered consistent if it has at least one solution, 
+meaning there's at least one set of values for the variables that satisfies all equations in the system. 
+
+When solving a system of linear equations, there are three possible cases:
+
+When a1 over a2 is not equal to b1 over b2, we get a pair of intersecting lines.
+When a1 over a2 is equal to b1 over b2, but is not equal to c1 over c2, we get a pair of parallel lines.
+When a1 over a2 is equal to b1 over b2 is equal to c1 over c2, we get a coincident lines.  
+
+
+Unique Solution – The lines intersect at a single point and this point is the solution to the system of equations. Hence its consistent.
+
+No Solution – The lines are parallel and never meet. Hence its inconsistent.
+
+Infinite Solutions – The lines are identical, meaning they overlap completely. Hence, its consistent as infinite solution exists.
+
+There are 3 methods to solve linear equations:
+
+Substitution: This method works by solving one equation for one variable and substituting it into the other equation.
+
+Elimination: This method eliminates one variable by adding or subtracting equations.
+
+Cross Multiplication Trick: This is a direct way to solve a system of two linear equations in two variables.
+
+We first solve the first equation for y in terms of x.
+Now, we substitute x in the second equation.
+Substituting x = 1 back into y = 3 minus 2x we get y = 1
+
+We multiply the second equation by 2 to align the coefficients of x.
+Now we subtract the first equation from second equation.
+We get y = 5.
+Now we substitute the value of y in second equation to get x = 3. 
+
+The Cross Multiplication Method is a direct way to solve a system of two linear equations in two variables.
+It follows a visual structure, making it easy to remember.
+Please note that all the terms of the equation should be on one side of the equality and other side should be zero before extracting out the coefficients.
+Write the coefficient of x, y and the constant term in the format as shown.
+
+Now we are going to cross multiply the values and write it as shown.
+
+x over b1 c2 minus b2 c1
+minus y over a1 c2 minus a2 c1
+and one over a1 b2 minus a2 b1
+
+Lets solve an example using this method.
+
+First we will take all the terms to one side of the equality.
+Then we will write the coefficients as demonstrated earlier.
+
+Finally we obtain x = 3, and y = 4.
+
+We have now understood the graphical significance, types of system of equations, solution and explored multiple methods to solve a system of linear equations.
+For practice solve all the equations in this video using all the 3 methods.

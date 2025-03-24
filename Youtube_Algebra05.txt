@@ -1,0 +1,47 @@
+Let’s begin with an example to illustrate the method of completing the square. Consider the expression:
+x^2 + 6x + 8
+
+As discussed earlier, we can rewrite this by completing the square. 
+To do this, we take half of the coefficient of 𝑥, square it, and add and subtract it within the expression.
+
+Now, let's visualize the quadratic function. 
+Completing the square gives us the vertex form. So, we know that the vertex would be at (-3, -1).
+We can also see that the curve intersects the x-axis at -4 and -2.
+
+Wherever any polynomial function y = f(x) intersects the x-axis, gives us the solution to the equation f(x) = 0. This is also referred to as roots of the equation.
+
+How do we find the roots analytically?
+Let's equate the previously obtained quadratic function to zero.
+Factorize the left hand side or LHS to get (x+2) times (x+4).
+Now the LHS equals zero only when x = -2 or x = -4.
+Thus the roots of the equation are -2 and -4 as was seen in the graph previously.
+
+Now, let’s see what happens when we move the graph up or down.
+If we shift the function upwards, it may touch the x-axis at a single point, leading to one repeated root.
+If shifted further up, the function never touches the x-axis, implying no real solutions.
+
+Thus a quadratic equation has:
+2 roots if the vertex lies below the x-axis.
+1 root if the vertex lies on the x-axis.
+No real roots if the vertex lies above the x-axis.
+
+Let’s complete the square for the expression ax^2 + bx + c.
+The same steps are to be followed.
+Now, we can see that the vertex of this parabola is minus b by 2 "A", and this complicated term represents the Y value.
+Next, lets equate the above perfect square expression to 0 and find out the values of x.
+This is called the quadratic formula.
+
+The complicated term inside the square root is same as negative of, the numerator of, the Y value of vertex. This quantity is called the discriminant. 
+This determines the nature of the roots of a quadratic equation.
+As square root of a negative quantity would be imaginary, there would be no real roots.
+If D = 0, plus minus 0 would result in the same root.
+Otherwise 2 roots exists.
+
+Please note that "AA" decides whether the parabola is facing upwards or downwards. For real roots, if its a upward facing parabola then the vertex has to be below or on the x-axis. Else if its a downward facing parabola then the opposite must be true.
+
+Thus, if discriminant is greater than 0, 2 solution exists.
+If discriminant = 0, 1 solution exists.
+And if discriminant is less than 0, no real solution exists.
+
+To summarize, we explored completing the square, graphed quadratic equations and observed how shifting the parabola affects solutions, and derived the quadratic formula. 
+These techniques provide powerful insights into solving and understanding quadratic equations.
